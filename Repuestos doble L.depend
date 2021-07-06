@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1593635949 source:c:\users\blas001\desktop\repuestos doble l\main.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	<stdio.h>
+	"funciones.h"
+	"otrasFunciones.h"
+	"TiposClases.h"
+	"Fecha.h"
+	"Producto.h"
+	"Proveedor.h"
+	"Ventas.h"
+
+1593277630 c:\users\blas001\desktop\repuestos doble l\funciones.h
+	<windows.h>
+
+1593312536 c:\users\blas001\desktop\repuestos doble l\otrasfunciones.h
+	"funciones.h"
+
+1593312995 c:\users\blas001\desktop\repuestos doble l\tiposclases.h
+
+1593307704 c:\users\blas001\desktop\repuestos doble l\fecha.h
+
+1593307228 c:\users\blas001\desktop\repuestos doble l\producto.h
+
+1593307228 c:\users\blas001\desktop\repuestos doble l\proveedor.h
+
+1593313147 c:\users\blas001\desktop\repuestos doble l\ventas.h
+
+1594270913 source:c:\users\lucas\onedrive\desktop\repuestos doble l\main.cpp
+	<iostream>
+	<string.h>
+	<windows.h>
+	<ctime>
+	<stdio.h>
+	"TiposClases.h"
+	"funciones.h"
+	"otrasFunciones.h"
+	"Fecha.h"
+	"Producto.h"
+	"Proveedor.h"
+	"Ventas.h"
+	"Reportes.h"
+	"Configuracion.h"
+
+1593898380 c:\users\lucas\onedrive\desktop\repuestos doble l\funciones.h
+	<windows.h>
+
+1594263628 c:\users\lucas\onedrive\desktop\repuestos doble l\otrasfunciones.h
+	"funciones.h"
+
+1594266916 c:\users\lucas\onedrive\desktop\repuestos doble l\tiposclases.h
+
+1593307706 c:\users\lucas\onedrive\desktop\repuestos doble l\fecha.h
+
+1594069126 c:\users\lucas\onedrive\desktop\repuestos doble l\producto.h
+
+1594069474 c:\users\lucas\onedrive\desktop\repuestos doble l\proveedor.h
+
+1594240018 c:\users\lucas\onedrive\desktop\repuestos doble l\ventas.h
+
+1593653798 source:c:\users\lucas\onedrive\desktop\repuestos doble l (lucas)\main.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	<stdio.h>
+	"funciones.h"
+	"otrasFunciones.h"
+	"TiposClases.h"
+	"Fecha.h"
+	"Producto.h"
+	"Proveedor.h"
+	"Ventas.h"
+
+1593277630 c:\users\lucas\onedrive\desktop\repuestos doble l (lucas)\funciones.h
+	<windows.h>
+
+1593312536 c:\users\lucas\onedrive\desktop\repuestos doble l (lucas)\otrasfunciones.h
+	"funciones.h"
+
+1593663658 c:\users\lucas\onedrive\desktop\repuestos doble l (lucas)\tiposclases.h
+
+1593307704 c:\users\lucas\onedrive\desktop\repuestos doble l (lucas)\fecha.h
+
+1593661580 c:\users\lucas\onedrive\desktop\repuestos doble l (lucas)\producto.h
+
+1593307228 c:\users\lucas\onedrive\desktop\repuestos doble l (lucas)\proveedor.h
+
+1593666212 c:\users\lucas\onedrive\desktop\repuestos doble l (lucas)\ventas.h
+
+1594190502 source:c:\users\blas001\documents\tecnicatura superior sistemas informaticos\materias\1° cuatrimestre 2020\laboratorio 2\repuestos doble l\main.cpp
+	<iostream>
+	<string.h>
+	<windows.h>
+	<ctime>
+	<stdio.h>
+	"TiposClases.h"
+	"funciones.h"
+	"otrasFunciones.h"
+	"Fecha.h"
+	"Producto.h"
+	"Proveedor.h"
+	"Ventas.h"
+	"Reportes.h"
+	"Configuracion.h"
+
+1593898379 c:\users\blas001\documents\tecnicatura superior sistemas informaticos\materias\1° cuatrimestre 2020\laboratorio 2\repuestos doble l\funciones.h
+	<windows.h>
+
+1594186666 c:\users\blas001\documents\tecnicatura superior sistemas informaticos\materias\1° cuatrimestre 2020\laboratorio 2\repuestos doble l\otrasfunciones.h
+	"funciones.h"
+
+1594088426 c:\users\blas001\documents\tecnicatura superior sistemas informaticos\materias\1° cuatrimestre 2020\laboratorio 2\repuestos doble l\tiposclases.h
+
+1593307704 c:\users\blas001\documents\tecnicatura superior sistemas informaticos\materias\1° cuatrimestre 2020\laboratorio 2\repuestos doble l\fecha.h
+
+1594069124 c:\users\blas001\documents\tecnicatura superior sistemas informaticos\materias\1° cuatrimestre 2020\laboratorio 2\repuestos doble l\producto.h
+
+1594069472 c:\users\blas001\documents\tecnicatura superior sistemas informaticos\materias\1° cuatrimestre 2020\laboratorio 2\repuestos doble l\proveedor.h
+
+1594190401 c:\users\blas001\documents\tecnicatura superior sistemas informaticos\materias\1° cuatrimestre 2020\laboratorio 2\repuestos doble l\ventas.h
+
+1594016617 c:\users\blas001\documents\tecnicatura superior sistemas informaticos\materias\1° cuatrimestre 2020\laboratorio 2\repuestos doble l\reportes.h
+
+1594088426 c:\users\blas001\documents\tecnicatura superior sistemas informaticos\materias\1° cuatrimestre 2020\laboratorio 2\repuestos doble l\configuracion.h
+
+1594190504 source:d:\repuestos doble l\main.cpp
+	<iostream>
+	<string.h>
+	<windows.h>
+	<ctime>
+	<stdio.h>
+	"TiposClases.h"
+	"funciones.h"
+	"otrasFunciones.h"
+	"Fecha.h"
+	"Producto.h"
+	"Proveedor.h"
+	"Ventas.h"
+	"Reportes.h"
+	"Configuracion.h"
+
+1594266916 d:\repuestos doble l\tiposclases.h
+
+1593898380 d:\repuestos doble l\funciones.h
+	<windows.h>
+
+1594263628 d:\repuestos doble l\otrasfunciones.h
+	"funciones.h"
+
+1593307706 d:\repuestos doble l\fecha.h
+
+1594069126 d:\repuestos doble l\producto.h
+
+1594069474 d:\repuestos doble l\proveedor.h
+
+1594240018 d:\repuestos doble l\ventas.h
+
+1594270730 d:\repuestos doble l\reportes.h
+
+1594241410 d:\repuestos doble l\configuracion.h
+
+1594296353 c:\users\lucas\onedrive\desktop\repuestos doble l\reportes.h
+
+1594241410 c:\users\lucas\onedrive\desktop\repuestos doble l\configuracion.h
+

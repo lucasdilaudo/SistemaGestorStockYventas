@@ -1,0 +1,14 @@
+reporte general
+
+-cantidad de productos activos.
+-cantidad de productos vendidos.
+-cantidad de proveedores activos.
+-cantidad de ventas realizdas.
+-monto total recaudado.
+
+
+reportes productos
+
+-producto mas vendido por mes.
+-producto que recaudo mas.
+-

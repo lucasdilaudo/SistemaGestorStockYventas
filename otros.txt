@@ -1,0 +1,171 @@
+
+
+/////////////////////////////////////////////////////VENTA COMUN
+Fecha regF;
+regF.setDia(12);
+regF.setMes(02);
+regF.setAnio(2020);
+Venta regV;
+regV.setID(1);
+regV.setCodProd("len1234",0);
+regV.setCantProd(1,0);
+regV.setMontoProd(550,0);
+regV.setFechaVenta(regF);
+regV.setTipoVenta("E");
+regV.setMontoProd(550,0);
+cout<<endl<<endl<<endl<<endl;
+cout<<"ID: "<<regV.getID()<<endl;
+cout<<"codProd: ";
+for(int i=0;i<10;i++){
+cout<<regV.getCodProd(i)<<"    ";
+}
+cout<<endl;
+cout<<"cantProd: ";
+for(int i=0;i<10;i++){
+cout<<regV.getCantProd(i)<<"    ";
+}
+cout<<endl;
+cout<<"fecha: "<<regV.getFechaVenta().getDia()<<"/"<<regV.getFechaVenta().getMes()<<"/"<<regV.getFechaVenta().getAnio()<<endl;
+cout<<"montoProd: ";
+for(int i=0;i<10;i++){
+cout<<regV.getMontoProd(i)<<"    ";
+}
+cout<<endl;
+cout<<regV.getTipo()<<endl;
+regV.setTotalVenta(550);
+cout<<"total: "<<regV.getTotal()<<endl;
+if(regV.guardarEnDisco()){
+    cout<<endl<<"guardado exitoso"<<endl;
+}
+
+/////////////////////////////////////////////////////VENTA COMUN
+VentaCC regV;
+Fecha regF;
+regF.setDia(12);
+regF.setMes(02);
+regF.setAnio(2020);
+regV.setID(1);
+regV.setCodCC("0001");
+regV.setCodProd("len1234",0);
+regV.setCantProd(1,0);
+regV.setMontoProd(550,0);
+regV.setFechaVenta(regF);
+regV.setTipoVenta('E');
+regV.setMontoProd(550,0);
+regV.setSituacion(true);
+regV.setSitMontProd(0,true);
+
+
+cout<<endl<<endl<<endl<<endl;
+cout<<"ID: "<<regV.getID()<<endl;
+cout<<"codProd: ";
+for(int i=0;i<10;i++){
+cout<<regV.getCodProd(i)<<"    ";
+}
+cout<<endl;
+cout<<"codCC: "<<regV.getCodCC();
+cout<<endl;
+cout<<"cantProd: ";
+for(int i=0;i<10;i++){
+cout<<regV.getCantProd(i)<<"    ";
+}
+cout<<endl;
+cout<<"fecha: "<<regV.getFechaVenta().getDia()<<"/"<<regV.getFechaVenta().getMes()<<"/"<<regV.getFechaVenta().getAnio()<<endl;
+cout<<"montoProd: ";
+for(int i=0;i<10;i++){
+cout<<regV.getMontoProd(i)<<"    ";
+}
+cout<<endl;
+regV.setTotalVenta(550);
+cout<<"total: "<<regV.getTotal()<<endl;
+cout<<"situcacion venta: "<<regV.getSituacion()<<endl;
+cout<<"situacion Productos venta: ";
+for(int i=0;i<10;i++){
+cout<<regV.getSitMontProd(i)<<" ";
+}
+if(regV.guardarEnDiscoCC()){
+    cout<<endl<<"guardado exitoso"<<endl;
+}
+
+//---------------------------------------
+
+          system("cls");
+
+ cout<<endl<<endl<<endl<<endl;
+cout<<"ID: "<<regV.getID()<<endl;
+cout<<"codProd: ";
+for(int i=0;i<10;i++){
+cout<<regV.getCodProd(i)<<"    ";
+}
+cout<<endl;
+cout<<"cantProd: ";
+for(int i=0;i<10;i++){
+cout<<regV.getCantProd(i)<<"    ";
+}
+cout<<endl;
+cout<<"fecha: "<<regV.getFechaVenta().getDia()<<"/"<<regV.getFechaVenta().getMes()<<"/"<<regV.getFechaVenta().getAnio()<<endl;
+cout<<"montoProd: ";
+for(int i=0;i<10;i++){
+cout<<regV.getMontoProd(i)<<"    ";
+}
+cout<<endl;
+cout<<"total: "<<regV.getTotal()<<endl;
+
+/////////////////////////////////////////////////////////////////
+
+CuentaCorriente reg;
+reg.setCodcc("0001");
+reg.setNombre("carlitos roman");
+reg.setApellido("lucosky");
+reg.setTelefono("1523458989");
+reg.setNomEmpresa("lucosky srl");
+reg.setMonto(25000);
+reg.setEstado(true);
+
+cout<<endl<<endl<<endl;
+cout<<reg.getCodCC()<<endl;
+cout<<reg.getNombre()<<endl;
+cout<<reg.getApellido()<<endl;
+cout<<reg.getTelefono()<<endl;
+cout<<reg.getNomEmpresa()<<endl;
+cout<<reg.getMonto()<<endl;
+cout<<reg.getEstadoCC()<<endl;
+
+reg.guardarEnDisco();
+pausa();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
